@@ -1,1 +1,1 @@
-This is first Git repo
+This is first repo
